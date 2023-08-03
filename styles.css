@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    border: 2px solid;
+    margin: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: pink;
+}
+
+.book {
+    margin: 10px 200px;
+}
+
+.book-image {
+    border: 2px solid;
+    margin: 0 auto;
+}
+
+.lst {
+    border: 2px solid;
+    text-align: center;
+    margin: 630px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: pink;
+}
+
+.but1, .but2 {
+    border: 2px solid;
+    padding: 2px;
+    background-color: darkturquoise;
+}
+
